@@ -1,0 +1,6 @@
+name: ZthEvent2023ZhongQiu
+version: '${project.version}'
+main: ink.magma.zthevent2023zhongqiu.ZthEvent2023ZhongQiu
+api-version: '1.20'
+authors: [MagmaBlock]
+description: 迟到的 2023 年活动
